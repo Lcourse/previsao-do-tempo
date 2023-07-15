@@ -20,7 +20,7 @@ async function buscarCidade(cidade){
 }
 
 function cliqueiNoBotao() {
-    const cidade = document.querySelector(".input-cidade")
+    const cidade = document.querySelector(".input-cidade").value
 
     buscarCidade(cidade)
 }

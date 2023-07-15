@@ -25,3 +25,28 @@ function cliqueiNoBotao() {
     buscarCidade(cidade)
 }
 
+/*
+// Array de URLs das imagens
+const imagens = [
+    "https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80",
+    "https://images.unsplash.com/photo-1562155618-e1a8bc2eb04f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2691&q=80",
+    "https://images.unsplash.com/photo-1561553873-e8491a564fd0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1247&q=80",
+    // Adicione mais URLs de imagens aqui, se desejar
+  ];
+  
+  // Função para obter um número aleatório
+  function getRandomIndex(max) {
+    return Math.floor(Math.random() * max);
+  }
+  
+  // Seleciona um elemento body
+  const body = document.querySelector("body");
+  
+  // Obtém um número aleatório dentro do intervalo do array de imagens
+  const randomIndex = getRandomIndex(imagens.length);
+  
+  // Define a imagem de fundo aleatória
+  body.style.backgroundImage = `url('${imagens[randomIndex]}')`;
+  */
+  
+

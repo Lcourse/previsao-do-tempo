@@ -80,3 +80,20 @@ body{
     color: #ffffff;
     margin-top: 20px;
 }
+
+@media (max-width: 768px) {
+  /* Estilos para telas com largura até 768 pixels (dispositivos móveis) */
+  .caixa-maior {
+    /* Exemplo de ajuste de largura */
+    width: 100%;
+  }
+  
+  .img-previsao {
+    /* Exemplo de ajuste de tamanho de imagem */
+    width: 50px;
+    height: 50px;
+  }
+
+  /* Outros ajustes de layout e estilo para dispositivos móveis */
+}
+
